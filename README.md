@@ -1,0 +1,1 @@
+This repository demonstrates a common Docker build error related to `npm install` failing within a Node.js application.  The original Dockerfile (`Dockerfile`) demonstrates the error, while the corrected version (`Dockerfile.fixed`) provides a solution.
